@@ -28,6 +28,8 @@ The core functionality of the application is built using React hooks for state m
 - **Adding a Task**: Users can add tasks using the TodoForm component, which updates the global state via the `addTodo` function from the context.
 
 - **Updating a Task**: The TodoItem component provides functionality for editing task details and marking tasks as completed or incomplete.
+- 
+- **Mark as Done Mark**: Allow users to mark tasks as completed..
 
 - **Searching Tasks**: The App component includes a search input that filters tasks based on the query entered by the user.
 
