@@ -53,7 +53,7 @@ npm install
 <p>3. Run the Application:</p>
 
 ```
-npm start
+npm run dev
 ```
 
 <p>4. Building for Production To create a production build of the application run:</p>
